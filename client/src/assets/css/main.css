@@ -1,0 +1,7 @@
+html, body {
+    @apply bg-neutral-800 text-neutral-50;
+}
+
+.btn {
+    @apply py-3 px-4 ring ring-neutral-700 hover:ring-neutral-600 rounded-lg;
+}
